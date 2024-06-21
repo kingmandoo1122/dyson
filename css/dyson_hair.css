@@ -1,0 +1,30 @@
+/* 다이슨 메인 헤어 */
+
+.hair_main{
+    position: relative;
+    height: 100vh;
+}
+
+
+.bgvideo{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top:0;
+    left:0;
+    z-index: -1;
+}
+.bgvideo>img{
+    height: 100%;
+    object-fit: cover;
+}
+.hair_main h1.enfont{
+    font-size: 100px;
+    
+}
+.hair_main p{
+    display: flex;
+    font-size: 30px;
+    justify-content: flex-end;
+    font-weight: 600;
+}

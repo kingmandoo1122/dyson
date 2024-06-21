@@ -1,0 +1,19 @@
+.inner_content{
+    width: 1200px;
+    margin:0 auto;
+}
+
+html{
+    font-family: "Noto Sans KR", sans-serif;
+}
+
+
+@font-face {
+    font-family: "Dyson";
+    src: url("../font/dyson-sans-modern.ttf");
+    font-weight: normal;
+
+}
+.enfont{
+    font-family: "Dyson", sans-serif;
+}
